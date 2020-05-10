@@ -1,1 +1,1 @@
-web: python heroku_test.py
+worker: python heroku_test.py
